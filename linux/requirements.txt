@@ -1,0 +1,5 @@
+keyboard
+tk
+pytube
+pywebbrowser
+cryptography
