@@ -1,4 +1,4 @@
-![DonD](ttps://github.com/salvat1on/DonD/blob/main/background.png)
+![DonD](https://github.com/salvat1on/DonD/blob/main/background.png)
 
 ---------------------
 Deal or no Data
