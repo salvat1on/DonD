@@ -9,7 +9,7 @@ A horrible game you never want to play.
 I am not responsiible for lost data or damages done to your system.
 This is for educational purposes only, you probally shouldn't run this code at all.
 
-There is both a linux and windows version.
+This is both a linux and windows version.
 
 To play all python files must be opened in a text editor
 Search for "/path/to/directory/" and change it to the directory you want to play with.
